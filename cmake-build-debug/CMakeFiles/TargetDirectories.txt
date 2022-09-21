@@ -1,0 +1,3 @@
+/home/clover/Downloads/libmodbus应用/MODBUS/cmake-build-debug/CMakeFiles/main.dir
+/home/clover/Downloads/libmodbus应用/MODBUS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/clover/Downloads/libmodbus应用/MODBUS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
