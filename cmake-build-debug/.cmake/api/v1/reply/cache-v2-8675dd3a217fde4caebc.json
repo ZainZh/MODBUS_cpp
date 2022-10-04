@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/clover/Downloads/libmodbus\u5e94\u7528/MODBUS/cmake-build-debug"
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -463,7 +463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/clover/Downloads/libmodbus\u5e94\u7528/MODBUS"
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -703,7 +703,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "main"
+			"value" : "gas"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1010,6 +1010,78 @@
 			"value" : "/usr/share/OpenCV"
 		},
 		{
+			"name" : "gas.cpp_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp/cmake-build-debug"
+		},
+		{
+			"name" : "gas.cpp_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "gas.cpp_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp"
+		},
+		{
+			"name" : "gas_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp/cmake-build-debug"
+		},
+		{
+			"name" : "gas_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "gas_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp"
+		},
+		{
 			"name" : "main_BINARY_DIR",
 			"properties" : 
 			[
@@ -1019,7 +1091,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/clover/Downloads/libmodbus\u5e94\u7528/MODBUS/cmake-build-debug"
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp/cmake-build-debug"
 		},
 		{
 			"name" : "main_IS_TOP_LEVEL",
@@ -1043,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/clover/Downloads/libmodbus\u5e94\u7528/MODBUS"
+			"value" : "/home/clover/Desktop/github_sz/MODBUS_cpp"
 		}
 	],
 	"kind" : "cache",

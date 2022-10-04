@@ -1,4 +1,4 @@
-# Install script for directory: /home/clover/Downloads/libmodbus应用/MODBUS
+# Install script for directory: /home/clover/Desktop/github_sz/MODBUS_cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/clover/Downloads/libmodbus应用/MODBUS/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/clover/Desktop/github_sz/MODBUS_cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

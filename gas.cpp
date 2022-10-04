@@ -22,5 +22,5 @@ int main() {
     }
     modbus_set_slave(mb, 1);
     modbus_connect(mb);
-    modbus_write_bit(mb, 2, 1);
+    modbus_write_bit(mb, 2, 0);
 }
